@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="langrealty" size="1.000000 0.535714" />
+    <ImageTarget name="thewhiteinvite" size="1.000000 0.704508" />
+    <ImageTarget name="aisle" size="1.000000 1.000000" />
+    <ImageTarget name="inkletter" size="1.000000 1.000702" />
+    <ImageTarget name="tammys" size="1.000000 1.000000" />
+    <ImageTarget name="TheSolemates" size="1.000000 1.000000" />
+    <ImageTarget name="Black_Bear" size="1.000000 0.666667" />
+    <ImageTarget name="Nvision_Card" size="1.000000 0.546626" />
+    <ImageTarget name="Basketball_Lady" size="1.000000 1.424561" />
+    <ImageTarget name="SideBar_Cursive" size="1.000000 0.680964" />
+    <ImageTarget name="Sidebar" size="1.000000 2.027799" />
+    <ImageTarget name="george-washington-on-one-dollar-bill" size="1.000000 0.414988" />
+    <ImageTarget name="stop" size="1.000000 1.001957" />
+    <ImageTarget name="Business_card_v3" size="1.000000 2.481132" />
+  </Tracking>
+</QCARConfig>
